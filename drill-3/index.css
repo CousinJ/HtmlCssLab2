@@ -1,0 +1,43 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    padding:50px;
+}
+
+header {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+}
+.square {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+
+}
+
+.stripes {
+    height: 25vh;
+}
+.stripe1 {
+    background-color: #4A90E2;
+}
+.stripe2 {
+    background-color: #50E3C2;
+}
+.stripe3{
+    background-color: #B8E986;
+}
+.stripe4 {
+    background-color: #f8E71C;
+}
+
+.question-container {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    
+}
